@@ -1,2 +1,17 @@
-# Student-Task-Progress-Management-System
-Built a full-stack Student Task Management System using Java, MySQL, HTML/CSS &amp; JDBC with full CRUD operations. Applied all four OOP principles, reducing code duplication by 30%. Designed a 3NF-normalized schema with SQL Joins and an integrated frontend dashboard for task tracking.
+
+# Student Task Management System
+A full-stack task management app built with Java, MySQL, HTML5, CSS3, and JDBC.
+
+## Features
+- Full CRUD for assignments and deadlines
+- OOP-based Java backend
+- 3NF normalized MySQL schema
+- JDBC database connection
+
+## Tech Stack
+Java · MySQL · HTML5 · CSS3 · JDBC
+
+## Setup
+1. Clone the repo
+2. Configure DB in `config.java`
+3. Run `Main.java`
